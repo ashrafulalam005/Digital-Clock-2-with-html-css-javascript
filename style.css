@@ -1,0 +1,14 @@
+body {
+  font-family: "Poppins", "Courier New", Courier, monospace;
+  background-color: #1f1d2b;
+}
+
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #ffd791;
+  font-size: 60px;
+  letter-spacing: 7px;
+}
